@@ -26,7 +26,7 @@ import (
 
 	"github.com/schollz/progressbar/v3"
 
-	"github.com/chyroc/go-aliyundrive/internal/helper_tool"
+	"github.com/bogeryy/go-aliyundrive/internal/helper_tool"
 	runewidth "github.com/mattn/go-runewidth"
 )
 
